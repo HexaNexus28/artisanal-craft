@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#F5EDD6"/>
+  <!-- Kente corner triangles -->
+  <polygon points="0,0 60,0 0,60" fill="#C9901A" opacity="0.3"/>
+  <polygon points="800,0 740,0 800,60" fill="#C9901A" opacity="0.3"/>
+  <polygon points="0,800 60,800 0,740" fill="#C9901A" opacity="0.3"/>
+  <polygon points="800,800 740,800 800,740" fill="#C9901A" opacity="0.3"/>
+  <!-- Left earring -->
+  <g transform="translate(-120, 0)">
+    <!-- Hook -->
+    <path d="M340,180 Q320,180 320,200 L320,230" fill="none" stroke="#C9901A" stroke-width="3"/>
+    <!-- Sun shape -->
+    <circle cx="320" cy="340" r="60" fill="none" stroke="#C9901A" stroke-width="4"/>
+    <circle cx="320" cy="340" r="35" fill="#C9901A" opacity="0.3"/>
+    <circle cx="320" cy="340" r="15" fill="#C9901A"/>
+    <!-- Sun rays -->
+    <line x1="320" y1="230" x2="320" y2="270" stroke="#C9901A" stroke-width="3"/>
+    <line x1="320" y1="410" x2="320" y2="450" stroke="#C9901A" stroke-width="3"/>
+    <line x1="230" y1="340" x2="260" y2="340" stroke="#C9901A" stroke-width="3"/>
+    <line x1="380" y1="340" x2="410" y2="340" stroke="#C9901A" stroke-width="3"/>
+    <line x1="258" y1="278" x2="278" y2="298" stroke="#C9901A" stroke-width="3"/>
+    <line x1="362" y1="382" x2="382" y2="402" stroke="#C9901A" stroke-width="3"/>
+    <line x1="258" y1="402" x2="278" y2="382" stroke="#C9901A" stroke-width="3"/>
+    <line x1="362" y1="298" x2="382" y2="278" stroke="#C9901A" stroke-width="3"/>
+    <!-- Bead details on rays -->
+    <circle cx="320" cy="260" r="5" fill="#8B4513"/>
+    <circle cx="320" cy="420" r="5" fill="#8B4513"/>
+    <circle cx="250" cy="340" r="5" fill="#8B4513"/>
+    <circle cx="390" cy="340" r="5" fill="#8B4513"/>
+    <!-- Dangling beads -->
+    <circle cx="300" cy="460" r="7" fill="#2D5016"/>
+    <circle cx="320" cy="475" r="7" fill="#C9901A"/>
+    <circle cx="340" cy="460" r="7" fill="#2D5016"/>
+    <circle cx="320" cy="500" r="9" fill="#8B4513"/>
+  </g>
+  <!-- Right earring (mirrored) -->
+  <g transform="translate(120, 0)">
+    <path d="M460,180 Q480,180 480,200 L480,230" fill="none" stroke="#C9901A" stroke-width="3"/>
+    <circle cx="480" cy="340" r="60" fill="none" stroke="#C9901A" stroke-width="4"/>
+    <circle cx="480" cy="340" r="35" fill="#C9901A" opacity="0.3"/>
+    <circle cx="480" cy="340" r="15" fill="#C9901A"/>
+    <line x1="480" y1="230" x2="480" y2="270" stroke="#C9901A" stroke-width="3"/>
+    <line x1="480" y1="410" x2="480" y2="450" stroke="#C9901A" stroke-width="3"/>
+    <line x1="390" y1="340" x2="420" y2="340" stroke="#C9901A" stroke-width="3"/>
+    <line x1="540" y1="340" x2="570" y2="340" stroke="#C9901A" stroke-width="3"/>
+    <line x1="418" y1="278" x2="438" y2="298" stroke="#C9901A" stroke-width="3"/>
+    <line x1="522" y1="382" x2="542" y2="402" stroke="#C9901A" stroke-width="3"/>
+    <line x1="418" y1="402" x2="438" y2="382" stroke="#C9901A" stroke-width="3"/>
+    <line x1="522" y1="298" x2="542" y2="278" stroke="#C9901A" stroke-width="3"/>
+    <circle cx="480" cy="260" r="5" fill="#8B4513"/>
+    <circle cx="480" cy="420" r="5" fill="#8B4513"/>
+    <circle cx="410" cy="340" r="5" fill="#8B4513"/>
+    <circle cx="550" cy="340" r="5" fill="#8B4513"/>
+    <circle cx="460" cy="460" r="7" fill="#2D5016"/>
+    <circle cx="480" cy="475" r="7" fill="#C9901A"/>
+    <circle cx="500" cy="460" r="7" fill="#2D5016"/>
+    <circle cx="480" cy="500" r="9" fill="#8B4513"/>
+  </g>
+  <!-- Product name -->
+  <text x="400" y="660" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#8B4513" font-weight="bold">Boucles Soleil</text>
+  <text x="400" y="695" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2D5016">Fait &#224; la main &#8226; Lom&#233;</text>
+</svg>

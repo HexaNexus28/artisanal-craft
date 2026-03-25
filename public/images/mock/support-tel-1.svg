@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#F5EDD6"/>
+  <!-- Kente step pattern border -->
+  <g fill="#2D5016" opacity="0.5">
+    <rect x="0" y="0" width="30" height="30"/>
+    <rect x="30" y="30" width="30" height="30"/>
+    <rect x="60" y="0" width="30" height="30"/>
+    <rect x="160" y="0" width="30" height="30"/>
+    <rect x="190" y="30" width="30" height="30"/>
+    <rect x="220" y="0" width="30" height="30"/>
+    <rect x="320" y="0" width="30" height="30"/>
+    <rect x="350" y="30" width="30" height="30"/>
+    <rect x="380" y="0" width="30" height="30"/>
+    <rect x="480" y="0" width="30" height="30"/>
+    <rect x="510" y="30" width="30" height="30"/>
+    <rect x="540" y="0" width="30" height="30"/>
+    <rect x="640" y="0" width="30" height="30"/>
+    <rect x="670" y="30" width="30" height="30"/>
+    <rect x="700" y="0" width="30" height="30"/>
+  </g>
+  <!-- Phone stand shape: L-shaped support -->
+  <path d="M260,560 L260,280 Q260,260 280,260 L520,260 Q540,260 540,280 L540,560" fill="none" stroke="#8B4513" stroke-width="5"/>
+  <!-- Base -->
+  <path d="M220,560 L580,560 L580,600 Q580,620 560,620 L240,620 Q220,620 220,600 Z" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <!-- Back support -->
+  <line x1="260" y1="560" x2="200" y2="620" stroke="#8B4513" stroke-width="4"/>
+  <line x1="540" y1="560" x2="600" y2="620" stroke="#8B4513" stroke-width="4"/>
+  <!-- Bead grid pattern on stand face -->
+  <g>
+    <circle cx="310" cy="320" r="8" fill="#C9901A"/>
+    <circle cx="350" cy="320" r="8" fill="#8B4513"/>
+    <circle cx="390" cy="320" r="8" fill="#C9901A"/>
+    <circle cx="430" cy="320" r="8" fill="#8B4513"/>
+    <circle cx="470" cy="320" r="8" fill="#C9901A"/>
+    <circle cx="310" cy="370" r="8" fill="#8B4513"/>
+    <circle cx="350" cy="370" r="8" fill="#C9901A"/>
+    <circle cx="390" cy="370" r="8" fill="#8B4513"/>
+    <circle cx="430" cy="370" r="8" fill="#C9901A"/>
+    <circle cx="470" cy="370" r="8" fill="#8B4513"/>
+    <circle cx="310" cy="420" r="8" fill="#C9901A"/>
+    <circle cx="350" cy="420" r="8" fill="#8B4513"/>
+    <circle cx="390" cy="420" r="8" fill="#C9901A"/>
+    <circle cx="430" cy="420" r="8" fill="#8B4513"/>
+    <circle cx="470" cy="420" r="8" fill="#C9901A"/>
+    <circle cx="310" cy="470" r="8" fill="#8B4513"/>
+    <circle cx="350" cy="470" r="8" fill="#C9901A"/>
+    <circle cx="390" cy="470" r="8" fill="#8B4513"/>
+    <circle cx="430" cy="470" r="8" fill="#C9901A"/>
+    <circle cx="470" cy="470" r="8" fill="#8B4513"/>
+    <circle cx="310" cy="520" r="8" fill="#C9901A"/>
+    <circle cx="350" cy="520" r="8" fill="#8B4513"/>
+    <circle cx="390" cy="520" r="8" fill="#C9901A"/>
+    <circle cx="430" cy="520" r="8" fill="#8B4513"/>
+    <circle cx="470" cy="520" r="8" fill="#C9901A"/>
+  </g>
+  <!-- Product name -->
+  <text x="400" y="700" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#8B4513" font-weight="bold">Support t&#233;l&#233;phone</text>
+  <text x="400" y="735" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2D5016">Fait &#224; la main &#8226; Lom&#233;</text>
+</svg>

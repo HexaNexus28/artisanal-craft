@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s http://localhost:3003/fr/catalogue)",
+      "Bash(curl -sL http://localhost:3003/catalogue)",
+      "Bash(npx next:*)",
+      "Bash(curl -sD - http://localhost:3003/catalogue)",
+      "Bash(curl -sD - http://localhost:3003/catalogue/sac-a-dos-perles-dore)"
+    ]
+  }
+}

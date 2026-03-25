@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#F5EDD6"/>
+  <!-- Kente zigzag side borders -->
+  <polyline points="30,100 60,140 30,180 60,220 30,260 60,300 30,340 60,380 30,420 60,460 30,500 60,540 30,580 60,620 30,660 60,700" fill="none" stroke="#E8D5A3" stroke-width="3"/>
+  <polyline points="770,100 740,140 770,180 740,220 770,260 740,300 770,340 740,380 770,420 740,460 770,500 740,540 770,580 740,620 770,660 740,700" fill="none" stroke="#E8D5A3" stroke-width="3"/>
+  <!-- Bracelet shape: circular band -->
+  <circle cx="400" cy="380" r="160" fill="none" stroke="#8B4513" stroke-width="40"/>
+  <!-- Togo flag colors as bead segments: green, yellow, red -->
+  <!-- Green beads (top arc) -->
+  <circle cx="290" cy="290" r="10" fill="#2D5016"/>
+  <circle cx="315" cy="265" r="10" fill="#2D5016"/>
+  <circle cx="345" cy="248" r="10" fill="#2D5016"/>
+  <circle cx="375" cy="238" r="10" fill="#2D5016"/>
+  <circle cx="405" cy="235" r="10" fill="#2D5016"/>
+  <circle cx="435" cy="240" r="10" fill="#2D5016"/>
+  <!-- Gold/Yellow beads (right arc) -->
+  <circle cx="462" cy="252" r="10" fill="#C9901A"/>
+  <circle cx="488" cy="272" r="10" fill="#C9901A"/>
+  <circle cx="510" cy="298" r="10" fill="#C9901A"/>
+  <circle cx="528" cy="328" r="10" fill="#C9901A"/>
+  <circle cx="540" cy="360" r="10" fill="#C9901A"/>
+  <circle cx="545" cy="392" r="10" fill="#C9901A"/>
+  <!-- Red/Soil beads (bottom-right arc) -->
+  <circle cx="540" cy="424" r="10" fill="#8B4513"/>
+  <circle cx="528" cy="454" r="10" fill="#8B4513"/>
+  <circle cx="510" cy="480" r="10" fill="#8B4513"/>
+  <circle cx="486" cy="502" r="10" fill="#8B4513"/>
+  <circle cx="458" cy="518" r="10" fill="#8B4513"/>
+  <!-- Green beads (bottom arc) -->
+  <circle cx="428" cy="528" r="10" fill="#2D5016"/>
+  <circle cx="398" cy="532" r="10" fill="#2D5016"/>
+  <circle cx="368" cy="528" r="10" fill="#2D5016"/>
+  <circle cx="340" cy="518" r="10" fill="#2D5016"/>
+  <!-- Gold beads (bottom-left arc) -->
+  <circle cx="314" cy="502" r="10" fill="#C9901A"/>
+  <circle cx="292" cy="480" r="10" fill="#C9901A"/>
+  <circle cx="274" cy="454" r="10" fill="#C9901A"/>
+  <circle cx="262" cy="424" r="10" fill="#C9901A"/>
+  <!-- Soil beads (left arc) -->
+  <circle cx="256" cy="392" r="10" fill="#8B4513"/>
+  <circle cx="258" cy="360" r="10" fill="#8B4513"/>
+  <circle cx="265" cy="328" r="10" fill="#8B4513"/>
+  <circle cx="275" cy="300" r="10" fill="#8B4513"/>
+  <!-- Star accent (Togo flag star) -->
+  <polygon points="400,340 408,362 432,362 413,376 420,398 400,384 380,398 387,376 368,362 392,362" fill="#C9901A"/>
+  <!-- Product name -->
+  <text x="400" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#8B4513" font-weight="bold">Bracelet Togo</text>
+  <text x="400" y="675" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2D5016">Fait &#224; la main &#8226; Lom&#233;</text>
+</svg>

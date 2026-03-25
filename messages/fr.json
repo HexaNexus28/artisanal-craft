@@ -1,0 +1,66 @@
+{
+  "common": {
+    "siteName": "Adodi Studio",
+    "tagline": "Fait à la main. Fait au Togo.",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "currency": "FCFA"
+  },
+  "nav": {
+    "home": "Accueil",
+    "catalogue": "Catalogue",
+    "savoirFaire": "Savoir-faire",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Créations artisanales en perles",
+    "heroSubtitle": "Sacs, accessoires et supports — fabriqués à la main à Lomé, Togo",
+    "heroCta": "Découvrir le catalogue",
+    "featuredTitle": "Nos créations phares",
+    "storyTeaser": "Découvrez le savoir-faire",
+    "storyText": "Chaque pièce est fabriquée à la main avec amour et patience, perpétuant un artisanat togolais ancestral."
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "allCategories": "Tout voir",
+    "noProducts": "Aucun produit trouvé",
+    "categories": {
+      "sacs": "Sacs",
+      "supports": "Supports",
+      "accessoires": "Accessoires"
+    }
+  },
+  "product": {
+    "addToWhatsApp": "Commander via WhatsApp",
+    "availability": "Disponibilité",
+    "price": "Prix",
+    "description": "Description",
+    "relatedProducts": "Vous aimerez aussi"
+  },
+  "savoirFaire": {
+    "title": "Savoir-faire",
+    "subtitle": "L'art des perles togolaises",
+    "intro": "Chaque création est le fruit d'heures de travail minutieux, réalisé entièrement à la main dans mon atelier à Lomé.",
+    "process": "Mon processus",
+    "steps": {
+      "selection": "Sélection des perles — Chaque perle est choisie pour sa couleur, sa taille et sa qualité",
+      "design": "Conception du motif — Inspiration des motifs traditionnels kente et de la nature togolaise",
+      "assembly": "Assemblage — Perle après perle, le motif prend forme avec patience et précision",
+      "finishing": "Finitions — Vérification de chaque détail pour une qualité irréprochable"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Envie d'une création unique ? Parlons-en !",
+    "whatsappCta": "Écrire sur WhatsApp",
+    "location": "Lomé, Togo"
+  },
+  "whatsapp": {
+    "fallbackMessage": "Bonjour ! Je suis intéressé(e) par vos créations. Pouvez-vous me renseigner ?",
+    "generatingMessage": "Préparation de votre message..."
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "madeWith": "Fait avec ❤ à Lomé"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "common": {
+    "siteName": "Adodi Studio",
+    "tagline": "Wowɔ e kple asi. Wowɔ e le Togo.",
+    "loading": "Eɖo ɖe...",
+    "error": "Nuvɔ aɖe va ɖo",
+    "currency": "FCFA"
+  },
+  "nav": {
+    "home": "Aƒe",
+    "catalogue": "Nuwo",
+    "savoirFaire": "Dɔwɔwɔ",
+    "contact": "Kadodo"
+  },
+  "home": {
+    "heroTitle": "Akɔnta nuwo si wowɔ kple asi",
+    "heroSubtitle": "Azetɔwo, nuwo kple agbalẽwo — wowɔ wo kple asi le Lomé, Togo",
+    "heroCta": "Kpɔ nuwo",
+    "featuredTitle": "Nuwo si le ŋgɔ",
+    "storyTeaser": "Kpɔ dɔwɔwɔ",
+    "storyText": "Nusi ɖeka sia ɖeka, wowɔ e kple lɔlɔ̃ kple didime, eye wole Togonyigba dɔwɔwɔ xoxo la dzim."
+  },
+  "catalogue": {
+    "title": "Nuwo",
+    "allCategories": "Kpɔ wokatã",
+    "noProducts": "Womekpɔ nu aɖeke o",
+    "categories": {
+      "sacs": "Azetɔwo",
+      "supports": "Agbalẽwo",
+      "accessoires": "Nu kpukpuiwo"
+    }
+  },
+  "product": {
+    "addToWhatsApp": "Ƒle to WhatsApp dzi",
+    "availability": "Nusi le asi me",
+    "price": "Eƒe nuxɔa",
+    "description": "Ŋutinya",
+    "relatedProducts": "Nusiwo hã alɔ̃ wò"
+  },
+  "savoirFaire": {
+    "title": "Dɔwɔwɔ",
+    "subtitle": "Togonyigba akɔntaŋu dɔwɔwɔ",
+    "intro": "Nusi ɖeka sia ɖeka tso gaƒoƒo geɖe dɔwɔwɔ me, eye wowɔ e kple asi le nye dɔwɔƒe le Lomé.",
+    "process": "Nye mɔnu",
+    "steps": {
+      "selection": "Akɔnta titiwo — Akɔnta ɖeka sia ɖeka, wotsɔe le eƒe amadede, eƒe lolo kple eƒe nyuie ta",
+      "design": "Nutata wɔwɔ — Nutata xoxo kente kple Togo dzeɖoɖo me nusiwo na mɔ̃ɖoɖo",
+      "assembly": "Wɔwɔ — Akɔnta ɖeka megbe ɖeka, nutata la dze eme kple didime",
+      "finishing": "Nudede — Wokpɔ nusiwo katã kpɔ be wonya"
+    }
+  },
+  "contact": {
+    "title": "Kadodo",
+    "subtitle": "Èdi nane si le vo? Mía ŋlɔ nu!",
+    "whatsappCta": "Ŋlɔ nu le WhatsApp dzi",
+    "location": "Lomé, Togo"
+  },
+  "whatsapp": {
+    "fallbackMessage": "Aloha! Nye dzi dzɔ le wò nuwo ŋu. Àte ŋu agblɔ nane nam?",
+    "generatingMessage": "Miele wò gbeƒãa ɖom..."
+  },
+  "footer": {
+    "rights": "Gomekpɔkpɔ blibo",
+    "madeWith": "Wowɔ e kple lɔlɔ̃ le Lomé"
+  }
+}

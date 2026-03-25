@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#F5EDD6"/>
+  <!-- Kente cross-hatch corners -->
+  <g stroke="#C9901A" stroke-width="2" opacity="0.5">
+    <line x1="20" y1="20" x2="80" y2="80"/>
+    <line x1="50" y1="20" x2="110" y2="80"/>
+    <line x1="80" y1="20" x2="20" y2="80"/>
+    <line x1="110" y1="20" x2="50" y2="80"/>
+    <line x1="720" y1="20" x2="780" y2="80"/>
+    <line x1="750" y1="20" x2="690" y2="80"/>
+    <line x1="720" y1="720" x2="780" y2="780"/>
+    <line x1="780" y1="720" x2="720" y2="780"/>
+    <line x1="20" y1="720" x2="80" y2="780"/>
+    <line x1="80" y1="720" x2="20" y2="780"/>
+  </g>
+  <!-- Larger tablet stand shape -->
+  <rect x="200" y="200" width="400" height="340" rx="15" fill="none" stroke="#8B4513" stroke-width="5"/>
+  <!-- Base/easel -->
+  <path d="M200,540 L160,640 L640,640 L600,540" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <line x1="400" y1="540" x2="400" y2="640" stroke="#8B4513" stroke-width="3"/>
+  <!-- Diamond bead pattern -->
+  <g fill="#2D5016">
+    <polygon points="400,260 420,280 400,300 380,280"/>
+    <polygon points="340,300 360,320 340,340 320,320"/>
+    <polygon points="460,300 480,320 460,340 440,320"/>
+    <polygon points="400,340 420,360 400,380 380,360"/>
+    <polygon points="280,340 300,360 280,380 260,360"/>
+    <polygon points="520,340 540,360 520,380 500,360"/>
+  </g>
+  <g fill="#C9901A">
+    <polygon points="340,380 360,400 340,420 320,400"/>
+    <polygon points="460,380 480,400 460,420 440,400"/>
+    <polygon points="400,420 420,440 400,460 380,440"/>
+    <polygon points="280,420 300,440 280,460 260,440"/>
+    <polygon points="520,420 540,440 520,460 500,440"/>
+  </g>
+  <g fill="#8B4513" opacity="0.6">
+    <polygon points="340,460 360,480 340,500 320,480"/>
+    <polygon points="460,460 480,480 460,500 440,480"/>
+    <polygon points="400,500 420,520 400,540 380,520"/>
+  </g>
+  <!-- Product name -->
+  <text x="400" y="710" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#8B4513" font-weight="bold">Support tablette</text>
+  <text x="400" y="745" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2D5016">Fait &#224; la main &#8226; Lom&#233;</text>
+</svg>

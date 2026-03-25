@@ -1,0 +1,66 @@
+{
+  "common": {
+    "siteName": "Adodi Studio",
+    "tagline": "Handmade. Made in Togo.",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "currency": "FCFA"
+  },
+  "nav": {
+    "home": "Home",
+    "catalogue": "Catalogue",
+    "savoirFaire": "Our craft",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Handcrafted bead creations",
+    "heroSubtitle": "Bags, accessories and stands — handmade in Lomé, Togo",
+    "heroCta": "Browse catalogue",
+    "featuredTitle": "Featured creations",
+    "storyTeaser": "Discover the craft",
+    "storyText": "Each piece is handmade with love and patience, continuing an ancestral Togolese craft tradition."
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "allCategories": "View all",
+    "noProducts": "No products found",
+    "categories": {
+      "sacs": "Bags",
+      "supports": "Stands",
+      "accessoires": "Accessories"
+    }
+  },
+  "product": {
+    "addToWhatsApp": "Order via WhatsApp",
+    "availability": "Availability",
+    "price": "Price",
+    "description": "Description",
+    "relatedProducts": "You may also like"
+  },
+  "savoirFaire": {
+    "title": "Our craft",
+    "subtitle": "The art of Togolese beadwork",
+    "intro": "Each creation is the result of hours of meticulous work, entirely handmade in my workshop in Lomé.",
+    "process": "My process",
+    "steps": {
+      "selection": "Bead selection — Each bead is chosen for its color, size, and quality",
+      "design": "Pattern design — Inspired by traditional kente patterns and Togolese nature",
+      "assembly": "Assembly — Bead by bead, the pattern takes shape with patience and precision",
+      "finishing": "Finishing — Every detail is checked for impeccable quality"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Want a unique creation? Let's talk!",
+    "whatsappCta": "Message on WhatsApp",
+    "location": "Lomé, Togo"
+  },
+  "whatsapp": {
+    "fallbackMessage": "Hello! I'm interested in your creations. Can you tell me more?",
+    "generatingMessage": "Preparing your message..."
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "madeWith": "Made with love in Lomé"
+  }
+}
