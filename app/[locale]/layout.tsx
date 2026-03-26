@@ -3,6 +3,7 @@ import type { ReactNode } from 'react';
 import { notFound } from 'next/navigation';
 import { NextIntlClientProvider, useMessages } from 'next-intl';
 import { unstable_setRequestLocale } from 'next-intl/server';
+import { Analytics } from '@vercel/analytics/react';
 import { locales } from '@/lib/i18n/config';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
@@ -56,6 +57,7 @@ export default function LocaleLayout({
           <main className="flex-1">{children}</main>
           <Footer />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
