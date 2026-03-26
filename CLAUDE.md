@@ -564,4 +564,4 @@ NEXT_PUBLIC_DEFAULT_LOCALE=fr
 
 ---
 
-*Last updated: March 2026 — Yawo Zoglo*
+*Last updated: March 2026 — HexaNexus28*
